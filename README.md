@@ -3,7 +3,7 @@
 A high-performance, SEO-optimized web application for tracking and converting real-time precious metal prices. Built with React, TypeScript, and Tailwind CSS, featuring a modern, immersive galaxy interface.
 
 <div align="center">
-  <h3>🚀 <a href="https://doodax.com" target="_blank">LIVE DEMO: doodax.com</a></h3>
+  <h3>🚀 <a href="https://doodax.com/tools/live-metal-prices/index.ht" target="_blank">LIVE DEMO: doodax.com</a></h3>
   <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS" />

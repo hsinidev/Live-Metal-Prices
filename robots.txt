@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metal.doodax.com/sitemap.xml

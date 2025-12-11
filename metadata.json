@@ -1,0 +1,5 @@
+{
+  "name": "Live Metal Prices",
+  "description": "A sleek and modern dashboard to track the live prices of precious metals like Gold, Silver, and Platinum against various world currencies. The application provides real-time (mocked) data in a clean, user-friendly interface.",
+  "requestFramePermissions": []
+}
